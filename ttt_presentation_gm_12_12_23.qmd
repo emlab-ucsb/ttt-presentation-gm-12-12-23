@@ -10,13 +10,13 @@ editor: visual
 
 ## Incoming - emLab server!
 
--   192 core processor
+-   192 cores
 -   1.5GB RAM
 -   60TB onboard high-speed storage
 -   Use options will include interactive R Studio Server, JupyterHub, optional queue system
 -   Server will be physically housed at UCSB and managed by GRIT
 -   We will be doing trainings on how to use the server, how to take advantage of it using paralell processing, etc
--   Expected February 2024!
+-   Expected February or March 2024!
 
 ## Data transition from Google Shared Drive to UCSB servers
 
@@ -29,18 +29,18 @@ editor: visual
 
 -   We will have multiple options for accessing the data:
     -   Directly on the emLab server via R Studio Server or JupyterHub (this will be *fast!*)
-    -   On own computers via Nextcloud desktop app, or mounting the drive via Samba
+    -   On our own laptops/desktops via Nextcloud desktop app, or mounting the drive via Samba
 -   Transition of archived projects has already been completed
--   Transtion for active projects to begin happening in January 2024
+-   Transtion for active projects to begin in January 2024
 
 ## emLab Server naming competition
 
 *You* could be the person to name the emLab server!
 
--   Submit your ideas on the new Slack channel: `#server-naming-competition`
--   Submit names simply by posting them in the channel
+-   Submit your name ideas on the new Slack channel: `#server-naming-competition`
 -   Vote for names you like by reacting to them with a 👍
 -   The name with the most votes wins!
 -   Submit all name candidates by January 12, 2024
 -   Vote for names by January 19, 2024
+-   Winner will be announced at TTT on January 23, 2024...
 -   Prize: eternal glory and bragging rights
