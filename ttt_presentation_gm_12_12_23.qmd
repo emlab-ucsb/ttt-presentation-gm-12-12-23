@@ -8,6 +8,12 @@ editor: visual
 
 ## Recipe corner
 
+Pastelón (Puerto Rican Plantain "Lasagna")
+
+![](pastelon.jpeg)
+
+[simplyrecipes](https://www.simplyrecipes.com/recipes/pastelon_puerto_rican_plantain_lasagna/)
+
 ## Incoming - emLab server!
 
 -   192 cores
