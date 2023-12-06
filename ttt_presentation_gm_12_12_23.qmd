@@ -21,7 +21,7 @@ Pastelón (Puerto Rican Plantain "Lasagna")
 -   60TB onboard high-speed storage
 -   Use options will include interactive R Studio Server, JupyterHub, optional queue system
 -   Server will be physically housed at UCSB and managed by GRIT
--   We will be doing trainings on how to use the server, how to take advantage of it using paralell processing, etc
+-   We will be doing trainings on how to use the server most effectively (e.g., `#emlab-study-club` session on parallel computing on January 9)
 -   Expected February or March 2024!
 
 ## Data transition from Google Shared Drive to UCSB servers
