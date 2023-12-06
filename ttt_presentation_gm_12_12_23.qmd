@@ -39,6 +39,14 @@ Pastelón (Puerto Rican Plantain "Lasagna")
 -   Transition of archived projects has already been completed
 -   Transtion for active projects to begin in January 2024
 
+## #emLab-study-club
+
+- Winter quarter 2024 sessions:
+    - Parallel computing (Danielle and Gavin)
+    - Introduction to causal inference (Kevin)
+    - Dynamic optimization programming (Chris)
+- Join the #emlab-study-club channel
+
 ## emLab Server naming competition
 
 *You* could be the person to name the emLab server!
