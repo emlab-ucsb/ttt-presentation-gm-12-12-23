@@ -48,7 +48,8 @@ Pastelón (Puerto Rican Plantain "Lasagna")
     -   Parallel computing (Danielle and Gavin)
     -   Introduction to causal inference (Kevin)
     -   Dynamic optimization programming (Chris)
--   Still looking for better name (`#materials-and-methods-meetup`??)
+-   Still looking for better name
+    -   `#materials-and-methods-meetup`??
 -   Join the `#emlab-study-club` channel
 
 ## emLab Server naming competition
