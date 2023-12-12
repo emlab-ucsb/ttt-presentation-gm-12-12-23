@@ -23,7 +23,7 @@ Pastelón (Puerto Rican Plantain "Lasagna")
 -   1.5GB RAM
 -   60TB onboard high-speed storage
 -   Use options will include interactive R Studio Server, JupyterHub, optional queue system
--   Server will be physically housed at UCSB and managed by GRIT
+-   Server will be physically housed at UCSB, managed by GRIT
 -   We will be doing trainings on how to use the server most effectively (e.g., `#emlab-study-club` session on parallel computing on January 9)
 -   Expected February or March 2024!
 
@@ -42,13 +42,14 @@ Pastelón (Puerto Rican Plantain "Lasagna")
 -   Transition of archived projects has already been completed
 -   Transtion for active projects to begin in January 2024
 
-## #emLab-study-club (#methods-and-materials-meetup??)
+## `#emLab-study-club`
 
 -   Winter quarter 2024 sessions:
     -   Parallel computing (Danielle and Gavin)
     -   Introduction to causal inference (Kevin)
     -   Dynamic optimization programming (Chris)
--   Join the #emlab-study-club channel
+-   Still looking for better name (`#materials-and-methods-meetup`??)
+-   Join the `#emlab-study-club` channel
 
 ## emLab Server naming competition
 
