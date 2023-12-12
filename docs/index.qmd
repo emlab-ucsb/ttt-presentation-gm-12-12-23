@@ -1,0 +1,63 @@
+---
+title: "emLab scientific computing in 2024 and beyond"
+author: "Gavin McDonald"
+date: "December 12, 2023"
+format: revealjs
+editor: visual
+project:
+  type: website
+  output-dir: docs
+---
+
+## Recipe corner
+
+Pastelón (Puerto Rican Plantain "Lasagna")
+
+![](pastelon.jpeg)
+
+[simplyrecipes](https://www.simplyrecipes.com/recipes/pastelon_puerto_rican_plantain_lasagna/)
+
+## Incoming - emLab server!
+
+-   192 cores
+-   1.5GB RAM
+-   60TB onboard high-speed storage
+-   Use options will include interactive R Studio Server, JupyterHub, optional queue system
+-   Server will be physically housed at UCSB and managed by GRIT
+-   We will be doing trainings on how to use the server most effectively (e.g., `#emlab-study-club` session on parallel computing on January 9)
+-   Expected February or March 2024!
+
+## Data transition from Google Shared Drive to UCSB servers
+
+-   Google is phasing out free unlimited storage
+-   We will be transitioning *all* data, media, and non-Google doc files to data storage at UCSB managed by GRIT
+-   Data for active projects will be stored on high-speed drives on emLab server; data for archived projects will be on rented slow-speed storage; all data will have a backup copy
+-   We will maintain a Google Shared Drive for collaborative Google docs
+
+## Data transition from Google Shared Drive to UCSB servers
+
+-   We will have multiple options for accessing the data:
+    -   Directly on the emLab server via R Studio Server or JupyterHub (this will be *fast!*)
+    -   On our own laptops/desktops via Nextcloud desktop app, or mounting the drive via Samba
+-   Transition of archived projects has already been completed
+-   Transtion for active projects to begin in January 2024
+
+## #emLab-study-club (#methods-and-materials-meetup??)
+
+-   Winter quarter 2024 sessions:
+    -   Parallel computing (Danielle and Gavin)
+    -   Introduction to causal inference (Kevin)
+    -   Dynamic optimization programming (Chris)
+-   Join the #emlab-study-club channel
+
+## emLab Server naming competition
+
+*You* could be the person to name the emLab server!
+
+-   Submit your name ideas on the new Slack channel: `#server-naming-competition`
+-   Vote for names you like by reacting to them with a 👍
+-   The name with the most votes wins!
+-   Submit all name candidates by January 12, 2024
+-   Vote for names by January 19, 2024
+-   Winner will be announced at TTT on January 23, 2024...
+-   Prize: eternal glory and bragging rights
