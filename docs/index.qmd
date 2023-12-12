@@ -20,7 +20,7 @@ Pastelón (Puerto Rican Plantain "Lasagna")
 ## Incoming - emLab server!
 
 -   192 cores
--   1.5GB RAM
+-   1.5TB RAM
 -   60TB onboard high-speed storage
 -   Use options will include interactive R Studio Server, JupyterHub, optional queue system
 -   Server will be physically housed at UCSB, managed by GRIT
